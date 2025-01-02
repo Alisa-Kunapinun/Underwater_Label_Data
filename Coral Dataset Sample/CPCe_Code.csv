@@ -1,0 +1,259 @@
+,name,explain_name,class_name,class_number,explanation
+1,Helc, Helioseris cucullata,COR,0,Coral
+2,Mdrc, Madracis,COR,0,Coral
+3,Mdrcb, Madracis brueggemanni,COR,0,Coral
+4,Mdrsd, Madracis decactis,COR,0,Coral
+5,Mdrsf, Madracis formosa,COR,0,Coral
+6,Man, Manicina areolata,COR,0,Coral
+7,Mon, Montastraea cavernosa,COR,0,Coral
+8,Ocu, Oculina diffusa,COR,0,Coral
+9,Sco, Scolymia,COR,0,Coral
+10,Sol, Scleractinia- unid solitary,COR,0,Coral
+11,Ste, Stephanocoenia intersepta,COR,0,Coral
+12,STY, Stylasteridae,COR,0,Coral
+13,Aga, Agaricia,COR,0,Coral
+14,Agaf, Agaricia fragilis,COR,0,Coral
+15,Agalg, Agaricia lamarcki/grahamae,COR,0,Coral
+16,DCP, Bare dead coral plate,HB,18,Bare hard bottom
+17,Beb, Bebryce,ALCG,1,Alcyonacea- gorgonian
+18,Carr, Carijoa riisei,ALCG,1,Alcyonacea- gorgonian
+19,Dio, Diodogorgia,ALCG,1,Alcyonacea- gorgonian
+20,ELL, Ellisellidae,ALCG,1,Alcyonacea- gorgonian
+21,Ely, Ellisella,ALCG,1,Alcyonacea- gorgonian
+22,GOR, Alcyonacea- gorgonian,ALCG,1,Alcyonacea- gorgonian
+23,Hypp, Hypnogorgia pendula,ALCG,1,Alcyonacea- gorgonian
+24,ISI, Isididae,ALCG,1,Alcyonacea- gorgonian
+25,Lepg, Leptogorgia,ALCG,1,Alcyonacea- gorgonian
+26,Mur, Muricea,ALCG,1,Alcyonacea- gorgonian
+27,Nic, Nicella,ALCG,1,Alcyonacea- gorgonian
+28,Nicg, Nicella goreaui,ALCG,1,Alcyonacea- gorgonian
+29,Nicgu, Nicella guadalupensis,ALCG,1,Alcyonacea- gorgonian
+30,Plex, Plexauridae,ALCG,1,Alcyonacea- gorgonian
+31,Prim, Primnoidae,ALCG,1,Alcyonacea- gorgonian
+32,Pseu, Pseudopterogorgia,ALCG,1,Alcyonacea- gorgonian
+33,Swi, Swiftia exserta,ALCG,1,Alcyonacea- gorgonian
+34,Thes, Thesea,ALCG,1,Alcyonacea- gorgonian
+35,Ther, Thesea rubra,ALCG,1,Alcyonacea- gorgonian
+36,Vill, Villogorgia,ALCG,1,Alcyonacea- gorgonian
+37,ALCA, Alcyonacea- Alcyoniina,ALCA,2,Alcyonacea- Alcyoniina
+38,Chic, Chironephthya caribaea,ALCA,2,Alcyonacea- Alcyoniina
+39,NEP, Nephtheidae,ALCA,2,Alcyonacea- Alcyoniina
+40,Nid, Nidalia,ALCA,2,Alcyonacea- Alcyoniina
+41,ANT, Antipatharia,ANT,3,Antipatharia
+42,Anta, Antipathes atlantica,ANT,3,Antipatharia
+43,Antf, Antipathes furcata,ANT,3,Antipatharia
+44,Elaab, Elatopathes abietina,ANT,3,Antipatharia
+45,Sti, Stichopathes lutkeni,ANT,3,Antipatharia
+46,Tanta, Tanacetipathes tanacetum,ANT,3,Antipatharia
+47,ACT, Actinaria,CNI,4,Cnidaria non-coral
+48,CER, Cerianthidae,CNI,4,Cnidaria non-coral
+49,CNI, Cnidaria non-coral,CNI,4,Cnidaria non-coral
+50,Con, Condylactis gigantea,CNI,4,Cnidaria non-coral
+51,CRM, Corallimorpharia,CNI,4,Cnidaria non-coral
+52,HYD, Hydroidolina,CNI,4,Cnidaria non-coral
+53,PEN, Pennatulacea,CNI,4,Cnidaria non-coral
+54,Ricf, Ricordia florida,CNI,4,Cnidaria non-coral
+55,ZOA, Zoanthidea,CNI,4,Cnidaria non-coral
+56,Acan, Acanthella,POR,5,Porifera
+57,Agcl, Agelas clathrodes,POR,5,Porifera
+58,Agco, Agelas conifera,POR,5,Porifera
+59,Agec, Agelas citrina,POR,5,Porifera
+60,Age-PR1, Agelas- PR1,POR,5,Porifera
+61,Age-PR2, Agelas- PR2,POR,5,Porifera
+62,Age-PR3, Agelas- PR3,POR,5,Porifera
+63,Age-PR5, Agelas- PR5,POR,5,Porifera
+64,Age-PR6, Agelas- PR6,POR,5,Porifera
+65,Agl, Agelas,POR,5,Porifera
+66,Aio, Aiolochroia crassa,POR,5,Porifera
+67,Amp, Amphimedon,POR,5,Porifera
+68,Ampc, Amphimedon compressa,POR,5,Porifera
+69,Amp-PR1, Amphimedon- PR1,POR,5,Porifera
+70,Amp-PR2, Amphimedon- PR2,POR,5,Porifera
+71,Apl, Aplysina,POR,5,Porifera
+72,Aplb, Aplysina bathyphila,POR,5,Porifera
+73,Aplla, Aplysina lacunosa,POR,5,Porifera
+74,ASTR, Astrophorida,POR,5,Porifera
+75,ASTR-PR1, Astrophorida- PR1,POR,5,Porifera
+76,ASTR-PR2, Astrophorida- PR2,POR,5,Porifera
+77,Aul, Auletta,POR,5,Porifera
+78,AXI, Axinellidae,POR,5,Porifera
+79,Axic, Axinella corrugata,POR,5,Porifera
+80,AXI-PR1, Axinellidae- PR1,POR,5,Porifera
+81,AXI-PR2, Axinellidae- PR2,POR,5,Porifera
+82,Bub, Bubaris,POR,5,Porifera
+83,Call, Callyspongia,POR,5,Porifera
+84,Calv, Callyspongia vaginalis,POR,5,Porifera
+85,Chd-PR1, Chondrilla- PR1,POR,5,Porifera
+86,Cho, Chondrosia,POR,5,Porifera
+87,Cin, Cinachyrella,POR,5,Porifera
+88,Cribv, Cribrochalina vasculum,POR,5,Porifera
+89,DEM, Demospongiae,POR,5,Porifera
+90,DEM-PR1, Demospongiae- PR01,POR,5,Porifera
+91,DEM-PR02, Demospongiae- PR02,POR,5,Porifera
+92,DEM-PR03, Demospongiae- PR03,POR,5,Porifera
+93,DEM-PR04, Demospongiae- PR04,POR,5,Porifera
+94,DEM-PR05, Demospongiae- PR05,POR,5,Porifera
+95,DEM-PR06, Demospongiae- PR06,POR,5,Porifera
+96,DEM-PR07, Demospongiae- PR07,POR,5,Porifera
+97,DEM-PR08, Demospongiae- PR08,POR,5,Porifera
+98,DEM-PR09, Demospongiae- PR09,POR,5,Porifera
+99,DEM-PR10, Demospongiae- PR10,POR,5,Porifera
+100,DEM-PR11, Demospongiae- PR11,POR,5,Porifera
+101,DEM-PR12, Demospongiae- PR12,POR,5,Porifera
+102,DEM-PR13, Demospongiae- PR13,POR,5,Porifera
+103,DEM-PR14, Demospongiae- PR14,POR,5,Porifera
+104,DEM-PR15, Demospongiae- PR15,POR,5,Porifera
+105,DEM-PR16, Demospongiae- PR16,POR,5,Porifera
+106,DEM-PR17, Demospongiae- PR17,POR,5,Porifera
+107,DEM-PR18, Demospongiae- PR18,POR,5,Porifera
+108,DEM-PR19, Demospongiae- PR19,POR,5,Porifera
+109,DEM-PR20, Demospongiae- PR20,POR,5,Porifera
+110,DEM-PR21, Demospongiae- PR21,POR,5,Porifera
+111,DEM-PR22, Demospongiae- PR22,POR,5,Porifera
+112,DEM-PR23, Demospongiae- PR23,POR,5,Porifera
+113,DEM-PR24, Demospongiae- PR24,POR,5,Porifera
+114,DEM-PR25, Demospongiae- PR25,POR,5,Porifera
+115,DEM-PR26, Demospongiae- PR26,POR,5,Porifera
+116,Desa, Desmapsamma anchorata,POR,5,Porifera
+117,DCTY, Dictyoceratida,POR,5,Porifera
+118,DCTY-PR1, Dictyoceratida- PR1,POR,5,Porifera
+119,Disc, Discodermia,POR,5,Porifera
+120,Ery, Erylus,POR,5,Porifera
+121,Eryf, Erylus formosus,POR,5,Porifera
+122,Ery-PR1, Erylus- PR1,POR,5,Porifera
+123,Ery-PR2, Erylus- PR2,POR,5,Porifera
+124,Geo, Geodia,POR,5,Porifera
+125,Geog, Geodia gibberosa complex,POR,5,Porifera
+126,Geon, Geodia neptuni complex,POR,5,Porifera
+127,Geo-PR1, Geodia- PR1,POR,5,Porifera
+128,HAD, Hadromerida,POR,5,Porifera
+129,HALICH, Halichondriidae,POR,5,Porifera
+130,Halic, Haliclona,POR,5,Porifera
+131,HAP, Haplosclerida,POR,5,Porifera
+132,Irc, Ircinia,POR,5,Porifera
+133,Ircc, Ircinia campana,POR,5,Porifera
+134,Ircf, Ircinia felix,POR,5,Porifera
+135,Ircs, Ircinia strobilina,POR,5,Porifera
+136,Mona, Monachora arbuscula,POR,5,Porifera
+137,Myc, Mycale,POR,5,Porifera
+138,Myr, Myrmekioderma,POR,5,Porifera
+139,Neo, Neofibularia nolitangere,POR,5,Porifera
+140,Nip, Niphates,POR,5,Porifera
+141,Nipe, Niphates erecta,POR,5,Porifera
+142,NIPH, Niphatidae,POR,5,Porifera
+143,Oce, Oceanapia,POR,5,Porifera
+144,PET, Petrosiidae,POR,5,Porifera
+145,Phk, Phakellia,POR,5,Porifera
+146,Plac, Placospongia,POR,5,Porifera
+147,Plak, Plakortis,POR,5,Porifera
+148,POE, Poecilosclerida,POR,5,Porifera
+149,POE-PR2, Poecilosclerida- PR2,POR,5,Porifera
+150,POE-PR3, Poecilosclerida- PR3,POR,5,Porifera
+151,POE-PR4, Poecilosclerida- PR4,POR,5,Porifera
+152,Pol, Polymastia,POR,5,Porifera
+153,Rha, Rhaphidophlus,POR,5,Porifera
+154,Scopr, Scopalina ruetzleri,POR,5,Porifera
+155,Sph, Spheciospongia vesparium,POR,5,Porifera
+156,Siphc, Siphonodictyon coralliphagum,POR,5,Porifera
+157,SPI, Spirastrellidae,POR,5,Porifera
+158,Spih, Spirastrella hartmani,POR,5,Porifera
+159,Spo, Spongosorites,POR,5,Porifera
+160,Spo-PR1, Spongosorites- PR1,POR,5,Porifera
+161,Spos, Spongosorites siliquaria,POR,5,Porifera
+162,Tet, Tethya,POR,5,Porifera
+163,Theo, Theonella,POR,5,Porifera
+164,Vrri, Verongula rigida,POR,5,Porifera
+165,VER, Verongida,POR,5,Porifera
+166,Xes, Xestospongia,POR,5,Porifera
+167,Xesm, Xestospongia muta,POR,5,Porifera
+168,Ana, Anadyomene menziesii,CHL,6,Chlorophyta
+169,Cau, Caulerpa,CHL,6,Chlorophyta
+170,Caup, Caulerpa prolifera,CHL,6,Chlorophyta
+171,Caur, Caulerpa racemosa,CHL,6,Chlorophyta
+172,Caus, Caulerpa sertularioides,CHL,6,Chlorophyta
+173,Chae, Chaetomorpha,CHL,6,Chlorophyta
+174,CHL, Chlorophyta,CHL,6,Chlorophyta
+175,Cod, Codium,CHL,6,Chlorophyta
+176,Codin, Codium intertextum,CHL,6,Chlorophyta
+177,Hal, Halimeda,CHL,6,Chlorophyta
+178,Halc, Halimeda copiosa,CHL,6,Chlorophyta
+179,Hald, Halimeda discoidea,CHL,6,Chlorophyta
+180,Halt, Halimeda tuna,CHL,6,Chlorophyta
+181,Micr, Microdictyon,CHL,6,Chlorophyta
+182,Ulva, Ulva,CHL,6,Chlorophyta
+183,Venv, Ventricaria ventricosa,CHL,6,Chlorophyta
+184,Verp, Verdigellas peltata,CHL,6,Chlorophyta
+185,Amph, Amphiroa,RHO,7,Rhodophyta
+186,Bot, Botryocladia,RHO,7,Rhodophyta
+187,CCA, Corallinales,RHO,7,Rhodophyta
+188,Haly, Halymenia,RHO,7,Rhodophyta
+189,Kal, Kallymenia,RHO,7,Rhodophyta
+190,Mar, Martensia pavonia,RHO,7,Rhodophyta
+191,PEY, Peyssonnelia,RHO,7,Rhodophyta
+192,RHO, Rhodophyta,RHO,7,Rhodophyta
+193,RHbl, Rhodophyta- fleshy blade,RHO,7,Rhodophyta
+194,Dic, Dictyota,PHA,8,Phaeophyceae
+195,Lob, Lobophora variegata,PHA,8,Phaeophyceae
+196,Pad, Padina,PHA,8,Phaeophyceae
+197,PHA, Phaeophyceae,PHA,8,Phaeophyceae
+198,PHA-PR1, Phaeophyceae-PR01,PHA,8,Phaeophyceae
+199,Sar, Sargassum,PHA,8,Phaeophyceae
+200,CYA, Cyanobacteria,CYA,9,Cyanobacteria
+201,ANN, Annelida,ANN,10,Annelida
+202,Fil, Filograna,ANN,10,Annelida
+203,Her, Hermodice carunculata,ANN,10,Annelida
+204,SAB, Sabellidae,ANN,10,Annelida
+205,SER, Serpulidae,ANN,10,Annelida
+206,Spig, Spirobranchus gigantea,ANN,10,Annelida
+207,ANAM, Anomura- hermit crab,ART,11,Arthropoda
+208,CRA, Brachyura- crab,ART,11,Arthropoda
+209,CIR, Cirripedia,ART,11,Arthropoda
+210,Pan, Panularis argus,ART,11,Arthropoda
+211,Per, Periclimenes,ART,11,Arthropoda
+212,PYC, Pyncogonida,ART,11,Arthropoda
+213,SHR, Penaeidae- shrimp,ART,11,Arthropoda
+214,Stes, Stenorhynchus seticornis,ART,11,Arthropoda
+215,BIV, Bivalvia,MOL,12,Mollusca
+216,CEP, Cephalopoda,MOL,12,Mollusca
+217,GAS, Gastropoda,MOL,12,Mollusca
+218,MOL, Mollusca,MOL,12,Mollusca
+219,Spon, Spondylus,MOL,12,Mollusca
+220,Anal, Analcidometra armata,ECH,13,Echinodermata
+221,Arb, Arbacia punctulata,ECH,13,Echinodermata
+222,AST, Asteroidea,ECH,13,Echinodermata
+223,Astan, Asteroporpa annulata,ECH,13,Echinodermata
+224,Aster, Asteroschema,ECH,13,Echinodermata
+225,Cen, Centrostephanus longispinus,ECH,13,Echinodermata
+226,Clyp, Clypeaster,ECH,13,Echinodermata
+227,CRI, Comatulida,ECH,13,Echinodermata
+228,Crinb, Crinometra brevipinna,ECH,13,Echinodermata
+229,Davi, Davidaster discoideus,ECH,13,Echinodermata
+230,Echin, Echinus,ECH,13,Echinodermata
+231,ECI, Echinoidea,ECH,13,Echinodermata
+232,Euap, Euapta lappa,ECH,13,Echinodermata
+233,Euc, Eucidaris tribuloides,ECH,13,Echinodermata
+234,GORG, Gorgonocephalidae,ECH,13,Echinodermata
+235,HOL, Holothuroidea,ECH,13,Echinodermata
+236,Meo, Meoma ventricosa,ECH,13,Echinodermata
+237,Nar, Narcissia trigonaria,ECH,13,Echinodermata
+238,Neoc, Neocomatella pulchella,ECH,13,Echinodermata
+239,OPH, Ophiuroidea,ECH,13,Echinodermata
+240,Stylc, Stylocidaris affinis,ECH,13,Echinodermata
+241,BRY, Bryozoa,BRY,14,Bryozoa
+242,BRYw, Bryozoa- wh fan,BRY,14,Bryozoa
+243,Schi, Schizoporella,BRY,14,Bryozoa
+244,ASC, Ascidiacea,CHO,15,Chordata
+245,AscP, Ascidiacea- pu,CHO,15,Chordata
+246,DID, Didemnidae,CHO,15,Chordata
+247,Eud, Eudistoma,CHO,15,Chordata
+248,FIS, Fish,CHO,15,Chordata
+249,UND, Unidentified organism,UND,16,Unidentified Organism
+250,SB, Bare soft bottom,SB,17,Bare soft bottom
+251,ROC, Bare rock,HB,18,Bare hard bottom
+252,RUB, Bare rubble/cobble,HB,18,Bare hard bottom
+253,FSL, Fishing line/long line,HUM,19,Human debris
+254,HUM, Human debris- Other,HUM,19,Human debris
+255,TRL, Trawl gear,HUM,19,Human debris
+256,TRP, Fish/crab trap,HUM,19,Human debris
+257,DET, Natural detritus,DET,20,Natural detritus
+258,TWS, Tape/wand/shadow/photo effect,TWS,21,Tape/wand/shadow/photo effect

@@ -85,6 +85,7 @@ Ouyang, B.; Farrington, S.; Kunapinun, A.; "Underwater Labelling Images Dataset 
   year = {2025},
   publisher = {NOAA, FAU},
 }
+```
 
 ---
 

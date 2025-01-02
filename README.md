@@ -75,15 +75,15 @@ This script includes utilities for managing and processing labels in both CSV an
 ## Citation
 If you use this dataset for research or development, please cite it as follows:
 
-Ouyang, B.; Farrington, S.; Kunapinun, A.; "Underwater Labelling Images Dataset for Segmentation and Classification," NOAA, FAU, 2025.
+XXX, Y.; "Underwater Labelling Images Dataset for Segmentation and Classification," AAAAAA, 2025.
 
 ### BibTeX
 ```bibtex
 @dataset{underwater2025,
-  author = {Ouyang, B. and Farrington, S. and Kunapinun, A.},
-  title = {Underwater Labelling Images Dataset for Segmentation and Classification},
+  author = {XXX, Y.},
+  title = {Underwater Labelling Images Dataset Sample for Segmentation and Classification},
   year = {2025},
-  publisher = {NOAA, FAU},
+  publisher = {AAAAAA},
 }
 ```
 
